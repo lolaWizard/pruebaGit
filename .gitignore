@@ -1,0 +1,21 @@
+# Ficheros cache/opciones Visual Studio
+.vs/
+
+# Visual Studio Code
+.vscode
+
+# Ficheros de usuario
+*.suo
+*.user
+
+# Directorios y archivos resultantes tras compilar
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
